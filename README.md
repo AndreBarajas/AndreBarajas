@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Burguer Queen**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **bvandrea7@gmail.com**
 
