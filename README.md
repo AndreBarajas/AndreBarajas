@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Andrea</h1>
 <h3 align="center">A passionate frontend developer from México</h3>
 
-- 🔭 I’m currently working on **Burguer Queen**
+- 🔭 I’m currently working on **https://github.com/AndreBarajas/alexandrite-react-app**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Tailwind & React-Redux**
 
 - 📫 How to reach me **bvandrea7@gmail.com**
 
